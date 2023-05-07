@@ -4,13 +4,13 @@
 
 ### Tasks List :-
 
-- **Car Modeling**
-- **Bouncing Ball**
-- **Dancing Teapots**
+- [**Car Modeling**](https://github.com/HazemElakbawy/Simple-OpenGl-Exercises/tree/main/Car%20Modeling)
+- [**Bouncing Ball**](https://github.com/HazemElakbawy/Simple-OpenGl-Exercises/tree/main/BouncingBall)
+- [**Dancing Teapots**](https://github.com/HazemElakbawy/Simple-OpenGl-Exercises/tree/main/DancingTeapots)
 - **Snake Game**
 
 ### Requirements :-
 
-- Python 3.6 or above
+- Python `3.6 or above`
 - PyOpenGl
 - PyGame
